@@ -1,4 +1,4 @@
-# [1049 Counting Ones (30 point(s))](https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456)
+# <a href="https://pintia.cn/problem-sets/994805342720868352/problems/994805430595731456">1049 Counting Ones (30 point(s))</a>
 题目意思很简单，就是要你计算从1到N中有多少个1。
 
 
