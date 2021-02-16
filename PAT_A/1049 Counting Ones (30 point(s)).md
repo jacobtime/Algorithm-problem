@@ -36,7 +36,7 @@
 本例中weight为5，故出现round * 100 + 100 = 100次
 故一起214次
 
-* 归纳得：*
+归纳得：
 * 对于每个数位：
 	* 若weight为0：weight出现1的次数是round * base
 	* 若weight为1： weight出现1的次数是round * base + former + 1
@@ -44,7 +44,7 @@
 	
 其中，base一开始为1，每左移一位后乘以10
 
-####代码：
+#### 代码：
 ~~~C++
 #include <bits/stdc++.h>
 using namespace std;
